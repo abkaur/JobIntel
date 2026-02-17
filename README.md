@@ -47,12 +47,6 @@ Analyzes job postings to highlight:
 ---
 
 ## 🚀 Run Locally
-Frontend
-
-```bash
-cd frontend
-npm install
-npm run dev
 
 Frontend runs on:
 http://localhost:5173
