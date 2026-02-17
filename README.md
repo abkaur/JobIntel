@@ -41,8 +41,8 @@ Analyzes job postings to highlight:
 **Backend**
 - Java 17 + Spring Boot
 - REST APIs
-- Spring Security + JWT (planned)
-- PostgreSQL via Docker Compose (planned)
+- Spring Security + JWT 
+- PostgreSQL via Docker Compose 
 
 ---
 
