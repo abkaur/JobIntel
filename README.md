@@ -62,7 +62,13 @@ Backend
 Run from IntelliJ (Spring Boot), typically on:
 http://localhost:8080
 
+## ☁️ Cloud Deployment
 
+The application is deployed on the cloud for demonstration purposes.
+
+- Frontend is hosted on a cloud platform and accessible via a public URL  
+- Backend (Spring Boot) is deployed on a cloud VM/service  
+- The application builds, runs, and works in a real environment  
 
 
 
