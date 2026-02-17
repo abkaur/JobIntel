@@ -54,7 +54,6 @@ cd frontend
 npm install
 npm run dev
 
-
 Frontend runs on:
 http://localhost:5173
 
@@ -62,3 +61,8 @@ Backend
 
 Run from IntelliJ (Spring Boot), typically on:
 http://localhost:8080
+
+
+
+
+
