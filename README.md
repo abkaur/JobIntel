@@ -48,7 +48,7 @@ Analyzes job postings to highlight:
 
 ## Run Locally
 
-### Frontend
+## Frontend
 ```bash
 cd frontend
 npm install
@@ -57,10 +57,11 @@ npm run dev
 Frontend runs on:
 http://localhost:5173
 
-Backend
+## Backend 
 
 Run from IntelliJ (Spring Boot), typically on:
 http://localhost:8080
+
 
 ## ☁️ Cloud Deployment
 
