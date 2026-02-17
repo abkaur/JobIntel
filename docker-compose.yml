@@ -1,0 +1,15 @@
+services:
+  db:
+    image: postgres:16
+    container_name: jobintel-db
+    environment:
+      POSTGRES_USER: jobintel
+      POSTGRES_PASSWORD: jobintel
+      POSTGRES_DB: jobintel
+    ports:
+      - "5433:5432"
+    volumes:
+      - jobintel_data:/var/lib/postgresql/data
+
+volumes:
+  jobintel_data:
