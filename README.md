@@ -47,8 +47,7 @@ Analyzes job postings to highlight:
 ---
 
 ## 🚀 Run Locally
-
-### Frontend
+Frontend
 
 ```bash
 cd frontend
