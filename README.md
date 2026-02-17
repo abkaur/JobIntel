@@ -46,9 +46,10 @@ Analyzes job postings to highlight:
 
 ---
 
-## Run Locally
+## 🚀 Run Locally
 
-## Frontend
+### Frontend
+
 ```bash
 cd frontend
 npm install
@@ -57,19 +58,19 @@ npm run dev
 Frontend runs on:
 http://localhost:5173
 
-## Backend 
+Backend
 
 Run from IntelliJ (Spring Boot), typically on:
 http://localhost:8080
 
-
-## ☁️ Cloud Deployment
+☁️ Cloud Deployment
 
 The application is deployed on the cloud for demonstration purposes.
 
-- Frontend is hosted on a cloud platform and accessible via a public URL  
-- Backend (Spring Boot) is deployed on a cloud VM/service  
-- The application builds, runs, and works in a real environment  
+Frontend is hosted on a cloud platform and accessible via a public URL
 
+Backend (Spring Boot) is deployed on a cloud VM/service
+
+The application builds, runs, and works in a real environment
 
 
